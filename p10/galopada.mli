@@ -1,0 +1,1 @@
+val galopada : int -> (int * int) list -> (int * int) list
